@@ -19,9 +19,9 @@
 - Software technology
 
 ## 🛠 Languages & Tools:
-### 1. My Languages
+#### 1. My Languages
 
-### 2. My Tools
+#### 2. My Tools
 
 ## 👀 Git Stats:
 
