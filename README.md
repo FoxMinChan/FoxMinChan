@@ -50,7 +50,7 @@
 
 ## ⚡ About me:
 
-Hello! my name is Nhan, you can call me FoxMinChan. I'm a Student living in Ho Chi Minh city. Outside Tech, I love take photos, lisen to music and explore nature outdoors. If you want to talk to me, please contact me via email.
+Hello! my name is Nhan, you can call me FoxMinChan. I'm a Student living in Ho Chi Minh city. Outside Tech, I love take photos, listen to music and explore nature outdoors. If you want to talk to me, please contact me via email.
 - Check out my [instagram](https://www.instagram.com/foxminchan/)
 - Write to me: [nguyenxuannhan407@gmail.com](mailto:nguyenxuannhan407@gmail.com)
 - See me on Hacker Rank: https://www.hackerrank.com/foxminchan
