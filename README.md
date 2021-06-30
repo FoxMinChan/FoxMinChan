@@ -22,6 +22,12 @@
 #### 1. My Languages
 
 #### 2. My Tools
+<p align="center">
+  <a href="https://www.docker.com/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/56079798/124018421-08fd0c00-da12-11eb-8cfe-c7b87e45a742.png" alt="docker"></a>
+  <a href="https://kubernetes.io/vi/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/56079798/124019115-d7387500-da12-11eb-98ba-37d80da049c8.png" alt="Kubernetes"></a>
+  <a href="https://archlinux.org/" target="_blank"><img height="40" src="
+https://user-images.githubusercontent.com/56079798/124019762-a3aa1a80-da13-11eb-9996-038532638187.png" alt="Linux"> </a>
+</p>
 
 ## 👀 Git Stats:
 
