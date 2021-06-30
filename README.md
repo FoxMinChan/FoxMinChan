@@ -19,14 +19,20 @@
 - Software technology
 
 ## 🛠 Languages & Tools:
-#### 1. My Languages
 
-#### 2. My Tools
 <p align="center">
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
+    <a href="https://www.w3schools.com/cs/index.php" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/56079798/124021285-942bd100-da15-11eb-82be-aca1c45c0a72.png" alt="cs"> </a>
+  <a href="https://www.w3schools.com/java/default.asp" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/56079798/124021629-f553a480-da15-11eb-974b-855baa232614.png" alt="java"></a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/56079798/124018421-08fd0c00-da12-11eb-8cfe-c7b87e45a742.png" alt="docker"></a>
   <a href="https://kubernetes.io/vi/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/56079798/124019115-d7387500-da12-11eb-98ba-37d80da049c8.png" alt="Kubernetes"></a>
-  <a href="https://archlinux.org/" target="_blank"><img height="40" src="
-https://user-images.githubusercontent.com/56079798/124019762-a3aa1a80-da13-11eb-9996-038532638187.png" alt="Linux"> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/56079798/124020986-313a3a00-da15-11eb-8b56-84dd605ef17b.png" alt="bash"> </a>
+  <a href="https://www.w3schools.com/sql/default.asp" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/56079798/124021852-406db780-da16-11eb-85f8-d5a55a720aee.png" alt="sqlsever"></a>
 </p>
 
 ## 👀 Git Stats:
