@@ -6,7 +6,7 @@
 - 👋 Hi, I’m Nguyễn Xuân Nhân (aka FoxMinChan)
 - 🌱 I’m currently learning information technology at HUTECH University.
 - 👀 I’m interested in *C++*, *Bash*, *JavaScript*, ...
-- 👨‍💻 All of my projects are available at https://github.com/FoxMinChan?tab=repositories.
+- 👨‍💻 All of my projects are available at https://bit.ly/my-repositories.
 - 💬 Ask me about *C++*, *Linux*, ...
 - 📫 How to reach me [nguyenxuannhan407@gmail.com](mailto:nguyenxuannhan407@gmail.com)
 
