@@ -41,7 +41,7 @@
   ### **My Tools:** 
     
   <p align="center">
-  <a href="https://www.docker.com/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/56079798/124018421-08fd0c00-da12-11eb-8cfe-c7b87e45a742.png" alt="docker"></a>
+  <a href="https://www.docker.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"></a>
   <a href="https://kubernetes.io/vi/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/56079798/124019115-d7387500-da12-11eb-98ba-37d80da049c8.png" alt="Kubernetes"></a>
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
