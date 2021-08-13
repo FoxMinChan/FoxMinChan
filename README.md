@@ -1,7 +1,7 @@
 ![Top image](https://i.imgur.com/yaeSOrM.png)
 ## 📝 Summary:
 
-![](https://komarev.com/ghpvc/?username=foxminchan) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/foxminchan?tab=followers)
+![](https://komarev.com/ghpvc/?username=foxminchan)
 
 - 👋 Hi, I’m Nguyễn Xuân Nhân (aka FoxMinChan)
 - 🌱 I’m currently learning information technology at HUTECH University.
