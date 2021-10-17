@@ -41,6 +41,7 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/56079798/124020986-313a3a00-da15-11eb-8b56-84dd605ef17b.png" alt="bash"> </a>
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"> <img src="https://user-images.githubusercontent.com/56079798/124063372-e3e1bb00-da5c-11eb-9316-1cd67df26166.png" alt="Powershell" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+    <a href="https://www.oracle.com/index.html" target="_blank"> <img src="https://user-images.githubusercontent.com/56079798/137628251-fe895a3d-a549-4b7d-a95c-41813dbabd34.png" alt="Oracle" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
      <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>  
