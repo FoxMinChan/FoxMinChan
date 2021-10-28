@@ -1,19 +1,19 @@
-![Top image](https://i.imgur.com/yaeSOrM.png)
+![Top image](https://user-images.githubusercontent.com/56079798/139308504-1e69c2c3-2d92-4305-a557-6bcbd18ac8b9.png)
 ## 📝 Summary:
 
 ![](https://komarev.com/ghpvc/?username=foxminchan)
 
 - 👋 Hi, I’m Nguyễn Xuân Nhân (aka FoxMinChan)
 - 🌱 I’m currently learning information technology at HUTECH University.
-- 👀 I’m interested in *C++*, *Bash*, *JavaScript*, ...
+- 👀 I’m interested in *C++*, *Bash*, *JavaScript*, *Algorithm*, ...
 - 👨‍💻 All of my projects are available at https://bit.ly/my-repositories.
-- 💬 Ask me about *C++*, *Linux*, ...
+- 💬 Ask me about *C++*, *Linux*, *Python (ML)*, ...
 - 📫 How to reach me [nguyenxuannhan407@gmail.com](mailto:nguyenxuannhan407@gmail.com)
 
-## 💻 I'm Currently Learning:
+## 💻 I'm Currently Learning:!
+
 
 **HUTECH University of Technology**
-- Introduction to databases
 - Introduction to Machine Learning
 - Website Design
 - Software technology
