@@ -42,19 +42,6 @@
      <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>  
 
-## 👀 Git Stats:
-
-<div>
-  <p align="center">
-  <b><em>😊 Overall GitHub Stats:</em></b> <br/><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=foxminchan" alt="GitHub Stats" /> <br/><br/>
-  <b><em>📕 My Programming activity:</em></b> <br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxminchan&layout=compact" alt="Time" /><br/></br>
-   <b><em>🧑‍💻 My Github Stats:</em></b> <br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=foxminchan&theme=buefy&show_icons=true" alt="Time" />
-  </p>
-</div>
-
 ## ⚡ About me:
 
 #### Glad to see you here!
