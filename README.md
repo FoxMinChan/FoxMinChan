@@ -5,9 +5,9 @@
 
 - 👋 Hi, I’m Nguyễn Xuân Nhân (aka FoxMinChan)
 - 🌱 I’m currently learning information technology at HUTECH University.
-- 👀 I’m interested in *C++*, *Bash*, *JavaScript*, *Algorithm*, ...
+- 👀 I’m interested in *Database*, *Data Warehouse*, *SQL*, *Algorithm*, ...
 - 👨‍💻 All of my projects are available at https://bit.ly/my-repositories.
-- 💬 Ask me about *C++*, *Linux*, *Python (ML)*, ...
+- 💬 Ask me about *Database*, *Linux*, *Python (ML)*, ...
 - 📫 How to reach me [nguyenxuannhan407@gmail.com](mailto:nguyenxuannhan407@gmail.com)
 
 ## 💻 I'm Currently Learning:!
@@ -15,25 +15,25 @@
 
 **HUTECH University of Technology**
 - Introduction to Machine Learning
-- Website Design
+- Data Analysts
 - Software technology
 
 ## 🛠 Languages & Tools:
 
 ### **My Languages:**
 <p align="center">
-      <a href="https://www.r-project.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r"> </a>
-    <a href="https://www.w3schools.com/cs/index.php" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/56079798/124021285-942bd100-da15-11eb-82be-aca1c45c0a72.png" alt="cs"> </a>
+  <a href="https://www.r-project.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r"> </a>
+  <a href="https://www.w3schools.com/cs/index.php" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/56079798/124021285-942bd100-da15-11eb-82be-aca1c45c0a72.png" alt="cs"> </a>
   <a href="https://www.w3schools.com/java/default.asp" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/56079798/124021629-f553a480-da15-11eb-974b-855baa232614.png" alt="java"></a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   </p>
   
   ### **My Tools:** 
-    
   <p align="center">
   <a href="https://www.docker.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"></a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>  
 
