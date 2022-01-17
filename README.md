@@ -22,12 +22,10 @@
 
 ### **My Languages:**
 <p align="center">
-      <a href="https://www.r-project.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/r-project/r-project-icon.svg" alt="r"> </a>
+      <a href="https://www.r-project.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r"> </a>
     <a href="https://www.w3schools.com/cs/index.php" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/56079798/124021285-942bd100-da15-11eb-82be-aca1c45c0a72.png" alt="cs"> </a>
   <a href="https://www.w3schools.com/java/default.asp" target="_blank"><img height="40" src="https://user-images.githubusercontent.com/56079798/124021629-f553a480-da15-11eb-974b-855baa232614.png" alt="java"></a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://flutter.dev/" target="_blank"> <img height="40" src="https://user-images.githubusercontent.com/56079798/124063205-7b92d980-da5c-11eb-83a1-5135cfbc82a1.png" alt="Flutter"> </a>
   </p>
   
   ### **My Tools:** 
