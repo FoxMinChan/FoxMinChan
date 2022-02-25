@@ -46,7 +46,7 @@
 : Face Recognition for Attendance System Using Neural Networks Technique
 
 2022
-: SSD: Single Shot Detector Multibox Inside Problem Warning Objectives For The Bladed People
+: SSD: Single Shot Detector Multibox For Real-time Processing
 
 ## ⚡ About me:
 
