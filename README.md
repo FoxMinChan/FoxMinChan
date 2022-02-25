@@ -14,7 +14,7 @@
 
 
 **HUTECH University of Technology**
-- Introduction to Machine Learning
+- Machine Learning
 - Data Analysts
 - Software technology
 
@@ -40,7 +40,7 @@
 ## 👩‍💻 My Project:
 
 2020
-: E-commerce Website: Huetch Mall
+: E-commerce Website: Hutech Mall
 
 2021
 : Face Recognition for Attendance System Using Neural Networks Technique
