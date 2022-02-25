@@ -37,6 +37,17 @@
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>  
 
+## 👩‍💻 My Project:
+
+2020
+: E-commerce Website: Huetch Mall
+
+2021
+: Face Recognition for Attendance System Using Neural Networks Technique
+
+2022
+: SSD: Single Shot Detector Multibox Inside Problem Warning Objectives For The Bladed People
+
 ## ⚡ About me:
 
 #### Glad to see you here!
