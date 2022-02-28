@@ -43,7 +43,7 @@
 : E-commerce Website - Hutech Mall
 
 2021
-: Face Recognition for Attendance System Using Neural Networks Technique
+: Face Recognition for Attendance System Using Convolutional Neural Networks Technique
 
 2022
 : Single Shot Detector Multibox For Real-time Processing
