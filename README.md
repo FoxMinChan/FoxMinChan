@@ -40,13 +40,13 @@
 ## 👩‍💻 My Project:
 
 2020
-: E-commerce Website: Hutech Mall
+: E-commerce Website - Hutech Mall
 
 2021
 : Face Recognition for Attendance System Using Neural Networks Technique
 
 2022
-: SSD: Single Shot Detector Multibox For Real-time Processing
+: Single Shot Detector Multibox For Real-time Processing
 
 ## ⚡ About me:
 
