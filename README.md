@@ -42,7 +42,7 @@
 
 <dl>
   <dt>2020</dt>
-  <dd>E-commerce Website - Hutech Mall</dd>
+  <dd>E-commerce Website - Hutech Mall <i><small><a href="https://github.com/FoxMinChan/Hutech_Mall/tree/master">view source</a></small></i></dd>
 
   <dt>2021</dt>
   <dd>Face Recognition for Attendance System Using Convolutional Neural Networks Technique</dd>
