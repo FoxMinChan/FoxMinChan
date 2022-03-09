@@ -40,14 +40,16 @@
 
 ## 👩‍💻 My Project:
 
-2020
-: E-commerce Website - Hutech Mall
+<dl>
+  <dt>2020</dt>
+  <dd>E-commerce Website - Hutech Mall</dd>
 
-2021
-: Face Recognition for Attendance System Using Convolutional Neural Networks Technique
+  <dt>2021</dt>
+  <dd>Face Recognition for Attendance System Using Convolutional Neural Networks Technique</dd>
 
-2022
-: Single Shot Detector Multibox For Real-time Processing
+  <dt>2022</dt>
+  <dd>Single Shot Detector Multibox For Real-time Processing</dd>
+</dl>
 
 ## ⚡ About me:
 
