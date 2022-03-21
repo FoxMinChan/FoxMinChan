@@ -48,7 +48,7 @@
   <dd>Face Recognition for Attendance System Using Convolutional Neural Networks Technique</dd>
 
   <dt>2022</dt>
-  <dd>Single Shot Detector Multibox For Real-time Processing</dd>
+  <dd>Improved Lane Line Detection Algorithm</dd>
 </dl>
 
 ## ⚡ About me:
