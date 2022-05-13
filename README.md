@@ -49,6 +49,7 @@
 
   <dt>2022</dt>
   <dd>Improved Lane Line Detection Algorithm (Student Scientific Research Conference 2022)</dd>
+  <dd>Predict League Of Legends Match Results According To Match Progress (Coming Soon)</dd>
 </dl>
 
 ## ⚡ About me:
