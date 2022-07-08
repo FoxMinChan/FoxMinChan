@@ -38,20 +38,6 @@
   <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>  
 
-## 👩‍💻 My Project:
-
-<dl>
-  <dt>2020</dt>
-  <dd>E-commerce Website - Hutech Mall</dd>
-
-  <dt>2021</dt>
-  <dd>Face Recognition for Attendance System Using Convolutional Neural Networks Technique</dd>
-
-  <dt>2022</dt>
-  <dd>Improved Lane Line Detection Algorithm</dd>
-  <dd>Predict League Of Legends Match Results According To Match Progress</dd>
-</dl>
-
 ## ⚡ About me:
 
 #### Glad to see you here!
